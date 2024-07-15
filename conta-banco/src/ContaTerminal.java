@@ -4,7 +4,6 @@ public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
 
-        //Numero cliente? ou da conta?
         System.out.println("Por favor, digite o número da sua conta!");
         int numero = scanner.nextInt();
 
